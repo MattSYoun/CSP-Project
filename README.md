@@ -1,6 +1,4 @@
-<html>
-  
-  <title> Hello Everyone This Is The Start Of My Project For CPSP </title>
+Hello Everyone This Is The Start Of My Project
  
   
   
@@ -67,4 +65,3 @@
   
   
   
-  </html>
